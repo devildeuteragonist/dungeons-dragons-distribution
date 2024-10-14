@@ -9,4 +9,4 @@ dnd_single_stat <- function(){
 }
 dnd_stats <- c(replicate(6, dnd_single_stat())) # repeat this process six times 
 # now you have supplied a set of 6 base stats for your character. 
-# to view the values, punch 'dnd_stats' into your r terminal after running this function. 
+# to view the values, punch 'dnd_stats' into your r/rstudio console after running this function. 
