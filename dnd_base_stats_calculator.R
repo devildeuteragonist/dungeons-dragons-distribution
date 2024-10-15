@@ -1,4 +1,4 @@
-# dungeons and dragons: rolling character base stats.
+# dungeons and dragons: rolling character base stats during character creation.
 # a simple calculator by finity_cardinal in 'r'
 # i'm 99.9% certain a better version of this calculator exists. 
 # i still wanted to see if i could create this function from scratch...
